@@ -1,0 +1,10 @@
+
+decrypt
+******该图像的各方向的相关系数为*****
+	Horizontal	Vertical	Diagonal
+  	0.8685    0.8257    0.7826
+
+plain:
+    ******该图像的各方向的相关系数为*****
+	Horizontal	Vertical	Diagonal
+  	0.8669    0.8318    0.7874
